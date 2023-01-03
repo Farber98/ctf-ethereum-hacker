@@ -7,3 +7,4 @@ Solving [EthereumHacker](https://ethereumhacker.com/) challenges.
 - #### 💰 &nbsp;&nbsp;[Level 3](https://github.com/Farber98/ctf-ethereum-hacker/tree/master/level3)
 - #### 💰 &nbsp;&nbsp;[Level 4](https://github.com/Farber98/ctf-ethereum-hacker/tree/master/level4)
 - #### 💰 &nbsp;&nbsp;[Level 5](https://github.com/Farber98/ctf-ethereum-hacker/tree/master/level5)
+- #### 💰 &nbsp;&nbsp;[Level 6](https://github.com/Farber98/ctf-ethereum-hacker/tree/master/level6)
